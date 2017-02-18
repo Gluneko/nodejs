@@ -1,0 +1,1 @@
+var globalVariable = 'This is a global variable';
